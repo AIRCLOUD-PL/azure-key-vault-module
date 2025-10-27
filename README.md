@@ -414,3 +414,29 @@ For issues and questions:
 ---
 
 **Note**: This module is designed for enterprise use and includes security features that may require additional Azure permissions or configurations. Always test in a development environment before deploying to production.
+## Requirements
+
+No requirements.
+
+## Providers
+
+No providers.
+
+## Modules
+
+No modules.
+
+## Resources
+
+No resources.
+
+## Inputs
+
+No inputs.
+
+## Outputs
+
+No outputs.
+
+<!-- BEGIN_TF_DOCS -->
+<!-- END_TF_DOCS -->
